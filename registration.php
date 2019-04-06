@@ -6,6 +6,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'htmlpet_bg_bg',
+    'bobbyn_bg_bg',
     __DIR__
 );
